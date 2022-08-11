@@ -6,7 +6,7 @@ const Home: NextPage = () => {
     <RecoilRoot>
       <div>User Query
         <div>
-          sdfsdfsdf
+          
         </div>
       </div>
     </RecoilRoot>
