@@ -4,7 +4,7 @@ import { RecoilRoot } from 'recoil'
 const Home: NextPage = () => {
   return (
     <RecoilRoot>
-      <div>User 1:
+      <div>User Query
         <div>
           sdfsdfsdf
         </div>
